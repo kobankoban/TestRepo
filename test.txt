@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello  updated222
-=======
-hello  updated branche122
->>>>>>> branch1
+aaaaaaaaaaaa
